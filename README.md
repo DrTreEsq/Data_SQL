@@ -22,12 +22,11 @@ Your Tasks
 3. Create a new (empty) database and use the exported data to load everything again. Ensure that all data is present
 4. Create a repository, add all relevant files, and a README.md file to your Github project that describes what you did
 5. Create a Demo Video and reference it in your GitHub Project.
-6. Sample Deliverables
 
-Demo video. Here is an example video you can refer to that explains Python decorators.
+Sample Deliverables
+* Demo video. Here is an example video you can refer to that explains Python decorators.
 
 ###### https://www.youtube.com/watch?v=rSRT_eRTBIM
-
-GitHub repo. Here is a Github repo you can reference with SQL scripts. Also use the repos and files referenced in the beginning of this document.
+* GitHub repo. Here is a Github repo you can reference with SQL scripts. Also use the repos and files referenced in the beginning of this document.
 
 ###### https://github.com/alfredodeza/vscode-mysql
