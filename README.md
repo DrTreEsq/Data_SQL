@@ -1,7 +1,7 @@
 # Loading and Exporting Data using MySQL
-### Specific instructions for the project
+#####  In this project, the goal is for you to load data into a MySQL database, perform an export, destroy the database and load the data back again explaining and documenting the whole process.
 
-##### In this project, the goal is for you to load data into a MySQL database, perform an export, destroy the database and load the data back again explaining and documenting the whole process.  For this project you will need data previously scraped. You can use either a CSV file or a SQL file to initially load the data into MySQL. You can use the scripts in the sample repo as a reference to create a database, load from a CSV file, or insert data with a SQL file
+##### For this project you will need data previously scraped. You can use either a CSV file or a SQL file to initially load the data into MySQL. You can use the scripts in the sample repo as a reference to create a database, load from a CSV file, or insert data with a SQL file
 * https://github.com/alfredodeza/vscode-mysql/tree/main/sql_scripts 
 * https://github.com/alfredodeza/vscode-mysql/blob/main/sql_scripts/load_csv.sql
 * https://github.com/alfredodeza/vscode-mysql/blob/main/sql_scripts/populate.sql
